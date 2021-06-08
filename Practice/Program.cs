@@ -4,16 +4,21 @@ namespace Practice
 {
     class Program
     {
+        //C#作业
         static void Main(string[] args)
         {
 
-            //string[,] arr = new string[4,3] { { "小周", "5月12日","座位1" },{ "小张", "5月13日", "座位2" }, { "小平", "5月14日", "座位3" },{ "小韩", "5月15日", "座位4" } }; //定义一个二维数组
-            //Console.WriteLine(arr.GetLongLength(0));
-            //for (int i =0; i<arr.GetLongLength(0); i++) //arr.GetLongLength(0)返回数组中一维数组的个数
+            //void Two_dimensional_array()
             //{
-            //    Console.WriteLine("姓名:{0},入栈时间:{1},座位：{2}",arr[i,0],arr[i,1],arr[i,2]);
+            //    string[,] arr = new string[4, 3] { { "小周", "5月12日", "座位1" }, { "小张", "5月13日", "座位2" }, { "小平", "5月14日", "座位3" }, { "小韩", "5月15日", "座位4" } }; //定义一个二维数组
+            //    Console.WriteLine(arr.GetLongLength(0));
+            //    for (int i = 0; i < arr.GetLongLength(0); i++) //arr.GetLongLength(0)返回数组中一维数组的个数
+            //    {
+            //        Console.WriteLine("姓名:{0},入栈时间:{1},座位：{2}", arr[i, 0], arr[i, 1], arr[i, 2]);
+            //    }
+            //    Console.ReadLine();
             //}
-            //Console.ReadLine();
+            //Two_dimensional_array();
 
             //double[] score = new double[6] {99.5,98,98.6,88,97,95};
             //double max = score[0];
